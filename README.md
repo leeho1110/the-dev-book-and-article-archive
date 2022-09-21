@@ -14,7 +14,7 @@
 
 ### 응용 기술
 
-- **Java **
+- **Java**
 	- [자바의 신 - 이상민](https://github.com/leeho1110/godofjava)
 	- [자바 최적화 - 벤저민 J. 에번스](https://github.com/leeho1110/optimizing-Java)
 - **Spring Framework**
