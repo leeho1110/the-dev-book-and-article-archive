@@ -21,20 +21,20 @@
 	- [토비의 스프링 3.1, Vol1 - 이일민](https://github.com/leeho1110/tobys-spring-3.1-vol1)
 
 - **Testing**
-	- 단위 테스트 - 블라디미르 코리코프
+	- [단위 테스트 - 블라디미르 코리코프](https://github.com/leeho1110/unit-test)
 	- 테스트 주도 개발 - 마틴 파울러
 ---
 
 ### 기타
 
 - **방법론**
-	- 클린 코드 - 마틴 파울러
+	- [클린 코드 - 마틴 파울러](https://github.com/leeho1110/clean-code)
 	- [리팩토링 - 마틴 파울러](https://github.com/leeho1110/refactoring)
 	- [객체지향의 사실과 오해 - 조영호](https://github.com/leeho1110/the-essense-of-object-orientation)
+	- [오브젝트 - 조영호](https://github.com/leeho1110/object)
 
 - **커리어 & 마인드셋**
 	- [심플 소프트웨어 - 맥스카넷](https://github.com/leeho1110/simple-software)
 	- [소프트웨어 장인 - 산드로 만쿠소](https://github.com/leeho1110/the-software-craftsman)
 	- [함께 자라기 - 김창준](https://github.com/leeho1110/growing-up-together)
 	- 일을 잘한다는 것 - 야마구치 슈, 구스노키 겐
-	-
