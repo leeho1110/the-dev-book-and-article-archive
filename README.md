@@ -1,4 +1,4 @@
-# the-dev-book-archive
+# the-dev-book-and-article-archive
 
 
 ### 기반 기술
