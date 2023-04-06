@@ -21,6 +21,7 @@
 - **Java**
 	- [자바의 신 - 이상민](https://github.com/leeho1110/godofjava)
 	- [자바 최적화 - 벤저민 J. 에번스](https://github.com/leeho1110/optimizing-Java)
+	- [모던 자바 인 액션 - 라울-게이브리얼 우르마, 마리오 푸스코, 앨런 마이크로프트](https://github.com/leeho1110/modern-java-in-action)
 - **Spring Framework**
 	- [토비의 스프링 3.1, Vol1 - 이일민](https://github.com/leeho1110/tobys-spring-3.1-vol1)
 
