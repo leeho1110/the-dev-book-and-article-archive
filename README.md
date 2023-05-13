@@ -51,6 +51,8 @@
 - 일을 잘한다는 것 - 야마구치 슈, 구스노키 겐
 - [네이비씰 승리의 기술 - 조코 윌링크, 레이프 바빈](https://github.com/leeho1110/extreme-ownership)
 - [인간관계론 - 데일 카네기](https://github.com/leeho1110/How-to-Win-Friends-Influence-People)
+- 1만 시간의 재발견 - 안데르스 에릭슨, 로버트 폴
+- 누가 IT시장 취업에 성공하는가 - 이상민
 
 ---
 
