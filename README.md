@@ -13,6 +13,7 @@
 	- [실습과 그림으로 배우는 리눅스 구조 - 다케우치 사토루](https://github.com/leeho1110/learn-linux-structure-by-illustration-and-kata)
 - **네트워크**
 	- [그림으로 배우는 네트워크 원리 - Gene](https://github.com/leeho1110/learn-how-to-network-works-by-illustration)
+	- [성공과 실패를 결정하는 1%의 네트워크 원리 - Tsutomu Tone](https://github.com/leeho1110/1-percent-network-principle-that-determines-success-or-failure)
 
 ---
 
@@ -53,6 +54,6 @@
 
 ---
 
-### 기타
+### 제품
 
 - 훅: 일상을 사로잡는 제품의 비밀 - 니르 이얄
