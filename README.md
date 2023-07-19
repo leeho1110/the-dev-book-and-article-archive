@@ -14,6 +14,8 @@
 - **네트워크**
 	- [그림으로 배우는 네트워크 원리 - Gene](https://github.com/leeho1110/learn-how-to-network-works-by-illustration)
 	- [성공과 실패를 결정하는 1%의 네트워크 원리 - Tsutomu Tone](https://github.com/leeho1110/1-percent-network-principle-that-determines-success-or-failure)
+ - **데이터베이스**
+        - [SQL Antipatterns](https://github.com/leeho1110/sql-antipatterns)
 
 ---
 
