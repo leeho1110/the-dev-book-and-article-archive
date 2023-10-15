@@ -44,6 +44,7 @@
 - [오브젝트 - 조영호](https://github.com/leeho1110/object)
 - [도메인 주도 개발 시작하기 - 최범균](https://github.com/leeho1110/Getting-Started-with-Domain-Driven-Development)
 - [엘레강트 오브젝트 - Yegor Bugayenko](https://github.com/leeho1110/elegant-object)
+- [UML 실전에서는 이것만 쓴다 - 마틴 파울러](https://github.com/leeho1110/UML-for-Java-Programmers/settings)
 
 ---
 
